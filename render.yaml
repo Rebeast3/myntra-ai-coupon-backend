@@ -1,0 +1,19 @@
+# Render Blueprint — alternative to Vercel (persistent web service, free tier).
+# In the Render dashboard: New → Blueprint → point at your repo → Apply.
+# Or: New → Web Service → pick the repo, Root Directory: backend,
+# Build Command: npm install, Start Command: node src/server.js, Plan: Free.
+# Free services sleep after inactivity (first request can take ~50s to wake).
+# Without DATABASE_URL the service runs in memory-only mode and serves the
+# seed list in data/coupons.seed.json; add a Render Postgres database and set
+# DATABASE_URL + ADMIN_TOKEN for persistence + admin adds.
+services:
+  - type: web
+    name: myntra-ai-coupon-backend
+    env: node
+    plan: free
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: node src/server.js
+    envVars:
+      - key: ADMIN_TOKEN
+        generateValue: true
