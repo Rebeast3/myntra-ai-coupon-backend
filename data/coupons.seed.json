@@ -1,1 +1,1681 @@
-[{"brands":[],"categories":[],"code":"EXTRA50","discountType":"flat","discountValue":50,"maxDiscount":null,"minOrderValue":400,"sourceUrl":"https://www.coupondunia.in/myntra?h=PnJJNleHps","title":"Extra ₹50 off on orders above ₹400","verificationStatus":"unverified"},{"brands":[],"categories":[],"code":"AHALFPRICE","discountType":"percent","discountValue":50,"maxDiscount":null,"minOrderValue":150,"sourceUrl":"https://www.coupondunia.in/myntra?h=PnJJNleHps","title":"Up to 50% off on orders above ₹150","verificationStatus":"unverified"},{"brands":[],"categories":[],"code":"IDERMORE10","discountType":"percent","discountValue":10,"maxDiscount":null,"minOrderValue":1199,"sourceUrl":"https://www.coupondunia.in/myntra?h=PnJJNleHps","title":"10% off for Insider members on orders above ₹1,199","verificationStatus":"unverified"},{"brands":[],"categories":[],"code":"EXTRA5OFF","discountType":"percent","discountValue":5,"firstOrderOnly":true,"maxDiscount":null,"minOrderValue":699,"sourceUrl":"https://www.coupondunia.in/myntra?h=PnJJNleHps","title":"Extra 5% off first orders above ₹699","verificationStatus":"unverified"},{"brands":[],"categories":[],"code":"MYNTRASAVE","discountType":"percent","discountValue":20,"firstOrderOnly":true,"maxDiscount":null,"minOrderValue":0,"sourceUrl":"https://www.coupondunia.in/myntra?h=PnJJNleHps","title":"20% off your first Myntra purchase","verificationStatus":"unverified"},{"brands":[],"categories":["Beauty"],"code":"GETGLAM","discountType":"percent","discountValue":30,"maxDiscount":null,"minOrderValue":349,"sourceUrl":"https://www.coupondunia.in/myntra?h=PnJJNleHps","title":"Extra 30% off beauty products above ₹349","verificationStatus":"unverified"},{"brands":[],"categories":["Beauty"],"code":"KGLOW","discountType":"percent","discountValue":15,"maxDiscount":null,"minOrderValue":0,"sourceUrl":"https://www.coupondunia.in/myntra?h=PnJJNleHps","title":"Extra 15% off Korean beauty products","verificationStatus":"unverified"},{"brands":[],"categories":["Kids"],"code":"KIDSWEAR06","discountType":"percent","discountValue":15,"maxDiscount":null,"minOrderValue":399,"sourceUrl":"https://www.coupondunia.in/myntra?h=PnJJNleHps","title":"15% off kidswear purchases above ₹399","verificationStatus":"unverified"}]
+[
+  {
+    "brands": [],
+    "categories": [],
+    "code": "EXTRA50",
+    "discountType": "flat",
+    "discountValue": 50,
+    "maxDiscount": null,
+    "minOrderValue": 400,
+    "sourceUrl": "https://www.coupondunia.in/myntra?h=PnJJNleHps",
+    "title": "Extra \u20b950 off on orders above \u20b9400",
+    "verificationStatus": "unverified"
+  },
+  {
+    "brands": [],
+    "categories": [],
+    "code": "AHALFPRICE",
+    "discountType": "percent",
+    "discountValue": 50,
+    "maxDiscount": null,
+    "minOrderValue": 150,
+    "sourceUrl": "https://www.coupondunia.in/myntra?h=PnJJNleHps",
+    "title": "Up to 50% off on orders above \u20b9150",
+    "verificationStatus": "unverified"
+  },
+  {
+    "brands": [],
+    "categories": [],
+    "code": "IDERMORE10",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 1199,
+    "sourceUrl": "https://www.coupondunia.in/myntra?h=PnJJNleHps",
+    "title": "10% off for Insider members on orders above \u20b91,199",
+    "verificationStatus": "unverified"
+  },
+  {
+    "brands": [],
+    "categories": [],
+    "code": "EXTRA5OFF",
+    "discountType": "percent",
+    "discountValue": 5,
+    "firstOrderOnly": true,
+    "maxDiscount": null,
+    "minOrderValue": 699,
+    "sourceUrl": "https://www.coupondunia.in/myntra?h=PnJJNleHps",
+    "title": "Extra 5% off first orders above \u20b9699",
+    "verificationStatus": "unverified"
+  },
+  {
+    "brands": [],
+    "categories": [],
+    "code": "MYNTRASAVE",
+    "discountType": "percent",
+    "discountValue": 20,
+    "firstOrderOnly": true,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.coupondunia.in/myntra?h=PnJJNleHps",
+    "title": "20% off your first Myntra purchase",
+    "verificationStatus": "unverified"
+  },
+  {
+    "brands": [],
+    "categories": [
+      "Beauty"
+    ],
+    "code": "GETGLAM",
+    "discountType": "percent",
+    "discountValue": 30,
+    "maxDiscount": null,
+    "minOrderValue": 349,
+    "sourceUrl": "https://www.coupondunia.in/myntra?h=PnJJNleHps",
+    "title": "Extra 30% off beauty products above \u20b9349",
+    "verificationStatus": "unverified"
+  },
+  {
+    "brands": [],
+    "categories": [
+      "Beauty"
+    ],
+    "code": "KGLOW",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.coupondunia.in/myntra?h=PnJJNleHps",
+    "title": "Extra 15% off Korean beauty products",
+    "verificationStatus": "unverified"
+  },
+  {
+    "brands": [],
+    "categories": [
+      "Kids"
+    ],
+    "code": "KIDSWEAR06",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 399,
+    "sourceUrl": "https://www.coupondunia.in/myntra?h=PnJJNleHps",
+    "title": "15% off kidswear purchases above \u20b9399",
+    "verificationStatus": "unverified"
+  },
+  {
+    "code": "SPL10",
+    "title": "10% off on Puma",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.desidime.com/news/myntra-diwali-sale-2026-is-live-coupons-top-20-deals",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": [
+      "Puma"
+    ]
+  },
+  {
+    "code": "BEAUTYRUSH",
+    "title": "15% off discount on a minimum order of Rs.299",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 299,
+    "sourceUrl": "https://www.desidime.com/news/myntra-diwali-sale-2026-is-live-coupons-top-20-deals",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Beauty"
+    ],
+    "brands": []
+  },
+  {
+    "code": "COMBONIKE",
+    "title": "15% off upto Rs.600 on Nike",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": 600,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.desidime.com/news/myntra-diwali-sale-2026-is-live-coupons-top-20-deals",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [
+      "Nike"
+    ]
+  },
+  {
+    "code": "BFFTRYKIDS",
+    "title": "Extra 10% discount on minimum order of Rs.199",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 199,
+    "sourceUrl": "https://www.desidime.com/news/myntra-diwali-sale-2026-is-live-coupons-top-20-deals",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "GLAMRUSH",
+    "title": "Upto 50% discount + flat 10% off on sunscreens",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.desidime.com/news/myntra-diwali-sale-2026-is-live-coupons-top-20-deals",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Beauty"
+    ],
+    "brands": []
+  },
+  {
+    "code": "MYNTRA300",
+    "title": "Rs.300 off on orders over Rs.1399",
+    "discountType": "flat",
+    "discountValue": 300,
+    "maxDiscount": null,
+    "minOrderValue": 1399,
+    "sourceUrl": "https://couponzania.com/stores/myntra",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": [],
+    "firstOrderOnly": true
+  },
+  {
+    "code": "NORETURNS10",
+    "title": "10% off on no return items",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://couponzania.com/stores/myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "TRYETHNIC15",
+    "title": "15% off up to Rs.300 on ethnic wear",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": 300,
+    "minOrderValue": 0,
+    "sourceUrl": "https://couponzania.com/stores/myntra",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": []
+  },
+  {
+    "code": "MYNTRA200",
+    "title": "Rs.200 off on orders over Rs.999",
+    "discountType": "flat",
+    "discountValue": 200,
+    "maxDiscount": null,
+    "minOrderValue": 999,
+    "sourceUrl": "https://couponzania.com/stores/myntra",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": [],
+    "firstOrderOnly": true
+  },
+  {
+    "code": "SAVE35",
+    "title": "35% off on orders above Rs.1000",
+    "discountType": "percent",
+    "discountValue": 35,
+    "maxDiscount": null,
+    "minOrderValue": 1000,
+    "sourceUrl": "https://couponzania.com/stores/myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "FWDNEW200",
+    "title": "Rs.200 off on FWD products",
+    "discountType": "flat",
+    "discountValue": 200,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://couponzania.com/stores/myntra",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": []
+  },
+  {
+    "code": "BUYNGETEXTRA",
+    "title": "10% off on purchase of 2+ items",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://couponzania.com/stores/myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "HRXEXTRA200",
+    "title": "Rs.200 off on order over Rs.700 on HRX brand",
+    "discountType": "flat",
+    "discountValue": 200,
+    "maxDiscount": null,
+    "minOrderValue": 700,
+    "sourceUrl": "https://couponzania.com/stores/myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [
+      "HRX"
+    ]
+  },
+  {
+    "code": "MISSEDYOU",
+    "title": "15% off on orders above Rs.699",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 699,
+    "sourceUrl": "https://couponzania.com/stores/myntra",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": []
+  },
+  {
+    "code": "SAVE20",
+    "title": "20% off on orders above Rs.499 for first time users",
+    "discountType": "percent",
+    "discountValue": 20,
+    "maxDiscount": null,
+    "minOrderValue": 499,
+    "sourceUrl": "https://couponzania.com/stores/myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [],
+    "firstOrderOnly": true
+  },
+  {
+    "code": "INSIDERPARTY10",
+    "title": "10% off in Myntra Super Style Up Sale up to 81% off products",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://couponzania.com/stores/myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "EXTRASPECIAL10",
+    "title": "10% off on orders above Rs.1699",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 1699,
+    "sourceUrl": "https://couponzania.com/stores/myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "TOPBRANDOFFER",
+    "title": "Rs.350 off for first time users",
+    "discountType": "flat",
+    "discountValue": 350,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://couponzania.com/stores/myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [],
+    "firstOrderOnly": true
+  },
+  {
+    "code": "MYNTRA400",
+    "title": "Rs.400 off on orders",
+    "discountType": "flat",
+    "discountValue": 400,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://couponzania.com/stores/myntra",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": [],
+    "firstOrderOnly": true
+  },
+  {
+    "code": "MYBHIM",
+    "title": "10% off on order over Rs.999 via UPI",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 999,
+    "sourceUrl": "https://couponzania.com/stores/myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "MBK500",
+    "title": "Up to Rs.500 cashback via Mobikwik",
+    "discountType": "flat",
+    "discountValue": 500,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://couponzania.com/stores/myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "A200",
+    "title": "Up to 90% discount + extra Rs.200 off on sitewide products above Rs.1500",
+    "discountType": "flat",
+    "discountValue": 200,
+    "maxDiscount": null,
+    "minOrderValue": 1500,
+    "sourceUrl": "https://www.snatchsavings.com/in/myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "A300",
+    "title": "Up to 70% off + extra Rs.300 off + free shipping on orders above Rs.1500",
+    "discountType": "flat",
+    "discountValue": 300,
+    "maxDiscount": null,
+    "minOrderValue": 1500,
+    "sourceUrl": "https://www.snatchsavings.com/in/myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "A100",
+    "title": "Extra Rs.100 off on shopping above Rs.500 with Myntra new user coupon",
+    "discountType": "flat",
+    "discountValue": 100,
+    "maxDiscount": null,
+    "minOrderValue": 500,
+    "sourceUrl": "https://www.snatchsavings.com/in/myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "A500",
+    "title": "Extra Rs.500 off with shopping above Rs.1500 for new customers",
+    "discountType": "flat",
+    "discountValue": 500,
+    "maxDiscount": null,
+    "minOrderValue": 1500,
+    "sourceUrl": "https://www.snatchsavings.com/in/myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "SAVE",
+    "title": "Up to Rs.200 off your first order above Rs.1000",
+    "discountType": "flat",
+    "discountValue": 200,
+    "maxDiscount": null,
+    "minOrderValue": 1000,
+    "sourceUrl": "https://www.snatchsavings.com/in/myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [],
+    "firstOrderOnly": true
+  },
+  {
+    "code": "MAKEUPDELIGHT",
+    "title": "20% off on makeup on a minimum purchase of Rs.249",
+    "discountType": "percent",
+    "discountValue": 20,
+    "maxDiscount": null,
+    "minOrderValue": 249,
+    "sourceUrl": "https://www.snatchsavings.com/in/myntra",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Beauty"
+    ],
+    "brands": []
+  },
+  {
+    "code": "MYNTRAHALFPRICE",
+    "title": "50% off $299+ orders",
+    "discountType": "percent",
+    "discountValue": 50,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.dontpayfull.com/at/myntra.com",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [],
+    "firstOrderOnly": true
+  },
+  {
+    "code": "SPORTSOFF10",
+    "title": "10% off on a curated selection of items",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.dontpayfull.com/at/myntra.com",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "NEWELITEDEAL",
+    "title": "15% off on personal care essentials",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.dontpayfull.com/at/myntra.com",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "TRYHOME",
+    "title": "20% off all orders",
+    "discountType": "percent",
+    "discountValue": 20,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.dontpayfull.com/at/myntra.com",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "STACKUP",
+    "title": "Up to 15% off on eligible beauty orders",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.coupondunia.in/myntra?h=PnJJNleHps",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Beauty"
+    ],
+    "brands": []
+  },
+  {
+    "code": "RYETHNIC15",
+    "title": "Up to 15% off on men's and women's ethnic wear",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.coupondunia.in/myntra?h=PnJJNleHps",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "MYNTRA500",
+    "title": "Flat \u20b9500 discount on purchases above \u20b92,999 made through the Myntra app",
+    "discountType": "flat",
+    "discountValue": 500,
+    "maxDiscount": null,
+    "minOrderValue": 2999,
+    "sourceUrl": "https://www.coupondunia.in/myntra?h=PnJJNleHps",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": [],
+    "firstOrderOnly": true
+  },
+  {
+    "code": "MYNTRAEXCLUSIVE1",
+    "title": "Flat 35% off on orders above Rs 300",
+    "discountType": "percent",
+    "discountValue": 35,
+    "maxDiscount": null,
+    "minOrderValue": 300,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": [],
+    "firstOrderOnly": true
+  },
+  {
+    "code": "FWDU15",
+    "title": "Fashion Sale: Extra 15% off up to \u20b9150 (Min \u20b9300) on selected styles",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": 150,
+    "minOrderValue": 300,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": []
+  },
+  {
+    "code": "EXTRA500",
+    "title": "Beauty Products: Get an extra Rs 500 off on orders above Rs 2500",
+    "discountType": "flat",
+    "discountValue": 500,
+    "maxDiscount": null,
+    "minOrderValue": 2500,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Beauty"
+    ],
+    "brands": []
+  },
+  {
+    "code": "NORETURN1",
+    "title": "Non-Returnable - Flat 10% off (Min \u20b9199)",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 199,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": []
+  },
+  {
+    "code": "FOOTWEAR10",
+    "title": "Footwear - Up to 70% off + 10% extra, Nike, Puma, Adidas",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Footwear",
+      "Fashion"
+    ],
+    "brands": [
+      "Nike",
+      "Puma",
+      "Adidas"
+    ]
+  },
+  {
+    "code": "MFC5",
+    "title": "Myntra Fashion Sale: Up to 80% off + additional 5% off on all orders above Rs 300",
+    "discountType": "percent",
+    "discountValue": 5,
+    "maxDiscount": null,
+    "minOrderValue": 300,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": []
+  },
+  {
+    "code": "FLAUNTWITHLAKME",
+    "title": "Lakme Beauty Products: Extra 15% off, minimum cart value Rs 299",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 299,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Beauty",
+      "Fashion"
+    ],
+    "brands": [
+      "Lakme"
+    ]
+  },
+  {
+    "code": "MAKEUPSAVER",
+    "title": "Flat 20% off on purchase of makeup products, minimum cart value Rs 999",
+    "discountType": "percent",
+    "discountValue": 20,
+    "maxDiscount": null,
+    "minOrderValue": 999,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Beauty",
+      "Fashion"
+    ],
+    "brands": []
+  },
+  {
+    "code": "FABLESTREET5",
+    "title": "Fable Street: Flat 5% off on minimum purchase of Rs 1699",
+    "discountType": "percent",
+    "discountValue": 5,
+    "maxDiscount": null,
+    "minOrderValue": 1699,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": [
+      "Fable Street"
+    ]
+  },
+  {
+    "code": "EXTRA4YOU",
+    "title": "Up to 70% off + extra 15% off on all orders, new users only",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": []
+  },
+  {
+    "code": "BASKETBONUS",
+    "title": "Home Living Products: Flat 20% off on purchase of 3 items or more",
+    "discountType": "percent",
+    "discountValue": 20,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Home"
+    ],
+    "brands": []
+  },
+  {
+    "code": "FWDEXTRAS10",
+    "title": "Up to 70% off + extra 10% off on orders above Rs 1299, new users only",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 1299,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": []
+  },
+  {
+    "code": "TRYWOMENWESTERNWEAR",
+    "title": "Flat 10% off on women's western wear collections",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "WOMENETHNICNEW",
+    "title": "Up to 70% off + flat 15% off on orders above Rs 999, ethnic wear",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 999,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": []
+  },
+  {
+    "code": "TRYNEWBEAUTY",
+    "title": "Beauty Products: Flat 15% off on your orders, minimum purchase Rs 999",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 999,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Beauty"
+    ],
+    "brands": []
+  },
+  {
+    "code": "FOOTWEAR5",
+    "title": "Footwear Collections: Flat 5% off on your orders",
+    "discountType": "percent",
+    "discountValue": 5,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Footwear"
+    ],
+    "brands": [
+      "Campus"
+    ]
+  },
+  {
+    "code": "CROCS10",
+    "title": "Flat 10% off on Crocs products, no minimum cart value required",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Footwear"
+    ],
+    "brands": [
+      "Crocs"
+    ]
+  },
+  {
+    "code": "HOMEBUYMORE",
+    "title": "Get 30% off on purchase of 2 items or more, 20% off on purchase of 1 item or more",
+    "discountType": "percent",
+    "discountValue": 30,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Home"
+    ],
+    "brands": []
+  },
+  {
+    "code": "TRYSNITCH",
+    "title": "Snitch Collections: Flat 15% off up to Rs 150 on orders Rs 1999",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": 150,
+    "minOrderValue": 1999,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": [
+      "Snitch"
+    ]
+  },
+  {
+    "code": "MTC15",
+    "title": "Mothercare Products: Flat 15% off on purchase of Rs 1499",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 1499,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Kids",
+      "Fashion"
+    ],
+    "brands": [
+      "Mothercare"
+    ]
+  },
+  {
+    "code": "TRYJJ15",
+    "title": "Jack & Jones Products: Save up to 70% and get an extra 15% off, cart above Rs 999",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 999,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": [
+      "Jack & Jones"
+    ]
+  },
+  {
+    "code": "HILFIGER20",
+    "title": "Tommy Hilfiger Collections: Up to 70% off + extra Rs 50 off on orders above Rs 300",
+    "discountType": "flat",
+    "discountValue": 50,
+    "maxDiscount": null,
+    "minOrderValue": 300,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [
+      "Tommy Hilfiger"
+    ]
+  },
+  {
+    "code": "TRYNEWPURVAJA",
+    "title": "Existing Users Code: Flat 5% off on orders above Rs 999",
+    "discountType": "percent",
+    "discountValue": 5,
+    "maxDiscount": null,
+    "minOrderValue": 999,
+    "sourceUrl": "https://www.grabon.in/myntra-coupons/?couponId=cpn_20735",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "BFFSAVE",
+    "title": "Flat 30% off on orders over Rs 300",
+    "discountType": "percent",
+    "discountValue": 30,
+    "maxDiscount": null,
+    "minOrderValue": 300,
+    "sourceUrl": "https://www.wowuchers.com/myntra-coupons",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "BFF500",
+    "title": "Rs 500 off, Big Fashion Festival",
+    "discountType": "flat",
+    "discountValue": 500,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.wowuchers.com/myntra-coupons",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "EBD10",
+    "title": "Flat 10% off on orders Rs 1349 and above",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 1349,
+    "sourceUrl": "https://www.wowuchers.com/myntra-coupons",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "LPROFFER",
+    "title": "Flat Rs 199 off on Biolage products over Rs 999",
+    "discountType": "flat",
+    "discountValue": 199,
+    "maxDiscount": null,
+    "minOrderValue": 999,
+    "sourceUrl": "https://www.rewardrave.com/en-IN/store/myntra",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Beauty"
+    ],
+    "brands": [
+      "Biolage"
+    ]
+  },
+  {
+    "code": "OFFER15",
+    "title": "Extra 15% off on orders above Rs. 1499",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 1499,
+    "sourceUrl": "https://freekaamaal.com/deals/extra-15-20-off",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "OFFER20",
+    "title": "Extra 20% off on orders above Rs. 2499",
+    "discountType": "percent",
+    "discountValue": 20,
+    "maxDiscount": null,
+    "minOrderValue": 2499,
+    "sourceUrl": "https://freekaamaal.com/deals/extra-15-20-off",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "BMSMURDER3",
+    "title": "Flat 10% off on non-discounted apparels on purchase of Rs. 1000 or more",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 1000,
+    "sourceUrl": "https://freekaamaal.com/deals/flat-10-off-on-purchase-of-rs-1000-or-more-myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "AFF15",
+    "title": "Flat 15% off on purchase of Rs. 1500 or more",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 1500,
+    "sourceUrl": "https://freekaamaal.com/deals/flat-10-off-on-purchase-of-rs-1000-or-more-myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "TRYME20",
+    "title": "Extra flat 20% off on already up to 82% discounted products, no minimum purchase, max Rs. 2000 discount",
+    "discountType": "percent",
+    "discountValue": 20,
+    "maxDiscount": 2000,
+    "minOrderValue": 0,
+    "sourceUrl": "https://freekaamaal.com/deals/myntra-grand-sale-flat-20-off-on-already-80-discounted-products-no-minimum-purchase",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "AUGUSTSALE",
+    "title": "Extra 31% off on UCB, LEE, Duke, Remanika apparels on purchase of Rs. 1999 and above",
+    "discountType": "percent",
+    "discountValue": 31,
+    "maxDiscount": null,
+    "minOrderValue": 1999,
+    "sourceUrl": "https://freekaamaal.com/deals/up-to-70-extra-31-off-on-ucb-lee-duke-remanika",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [
+      "UCB",
+      "LEE",
+      "Duke",
+      "Remanika"
+    ]
+  },
+  {
+    "code": "SBIMY25",
+    "title": "25% off on minimum purchase of Rs. 1000 and above",
+    "discountType": "percent",
+    "discountValue": 25,
+    "maxDiscount": null,
+    "minOrderValue": 1000,
+    "sourceUrl": "https://freekaamaal.com/deals/lucys-secret-women-nightdress-at-minimum-20-or-30-off-with-free-shipping-starts-at-rs-695",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "EXTRA30",
+    "title": "30% off on minimum purchase of Rs. 1499 and above",
+    "discountType": "percent",
+    "discountValue": 30,
+    "maxDiscount": null,
+    "minOrderValue": 1499,
+    "sourceUrl": "https://freekaamaal.com/deals/lucys-secret-women-nightdress-at-minimum-20-or-30-off-with-free-shipping-starts-at-rs-695",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "STYLE30",
+    "title": "30% off on minimum purchase of Rs. 1499 and above",
+    "discountType": "percent",
+    "discountValue": 30,
+    "maxDiscount": null,
+    "minOrderValue": 1499,
+    "sourceUrl": "https://freekaamaal.com/deals/lucys-secret-women-nightdress-at-minimum-20-or-30-off-with-free-shipping-starts-at-rs-695",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "SALE30",
+    "title": "Additional flat 30% off at Myntra",
+    "discountType": "percent",
+    "discountValue": 30,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://freekaamaal.com/deals/raining-discount-heavily-additional-flat-30-off-at-myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "FAB30",
+    "title": "Fila Men Black FS Soar Sports Shoes at Rs. 1050 (was Rs. 2499) with coupon FAB30",
+    "discountType": "percent",
+    "discountValue": null,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://freekaamaal.com/deals/fila-men-black-fs-soar-sports-shoes-rs-1050",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [
+      "Fila"
+    ]
+  },
+  {
+    "code": "SBIMYNTRA37",
+    "title": "Extra 37% off on minimum purchase of Rs. 1299 on shoes, sandals and flip flops",
+    "discountType": "percent",
+    "discountValue": 37,
+    "maxDiscount": null,
+    "minOrderValue": 1299,
+    "sourceUrl": "https://freekaamaal.com/deals/extra-37-off-on-1299-buy-shoes-sandals-flip-flops-from-top-brands",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "HDFCNET",
+    "title": "37% off on minimum purchase of Rs. 1599 on shoes, sandals and flip flops",
+    "discountType": "percent",
+    "discountValue": 37,
+    "maxDiscount": null,
+    "minOrderValue": 1599,
+    "sourceUrl": "https://freekaamaal.com/deals/extra-37-off-on-1299-buy-shoes-sandals-flip-flops-from-top-brands",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "AIRTEL35",
+    "title": "35% off on minimum purchase of Rs. 1499 on shoes, sandals and flip flops",
+    "discountType": "percent",
+    "discountValue": 35,
+    "maxDiscount": null,
+    "minOrderValue": 1499,
+    "sourceUrl": "https://freekaamaal.com/deals/extra-37-off-on-1299-buy-shoes-sandals-flip-flops-from-top-brands",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "SPLASH",
+    "title": "Extra 25% off on orders above Rs. 1499",
+    "discountType": "percent",
+    "discountValue": 25,
+    "maxDiscount": null,
+    "minOrderValue": 1499,
+    "sourceUrl": "https://freekaamaal.com/deals/myntra-fashion-splash-get-upto-70-extra-20-or-extra-25",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "BFFCR300",
+    "title": "Rs. 300 off on orders",
+    "discountType": "flat",
+    "discountValue": 300,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://zoutons.com/myntra-coupons",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "MYNTRAEXCLUSIVE",
+    "title": "Flat 30% off up to Rs. 250 off",
+    "discountType": "percent",
+    "discountValue": 30,
+    "maxDiscount": 250,
+    "minOrderValue": 0,
+    "sourceUrl": "https://zoutons.com/myntra-coupons",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [],
+    "firstOrderOnly": true
+  },
+  {
+    "code": "SPORTSOFF",
+    "title": "Flat 20% off on sportswear",
+    "discountType": "percent",
+    "discountValue": 20,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://zoutons.com/myntra-coupons",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "MFC10",
+    "title": "Save 10% using Myntra coupon code MFC10",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.gopaisa.com/myntra-coupons-offers-sale-today?utm_source=youtube&utm_medium=sruthi&utm_campaign=rimajain&utm_term=reema1486650-23122020-000000000000000000000000&utm_content=myntrahaul&refcode=",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": []
+  },
+  {
+    "code": "MFCGET",
+    "title": "Save 15% on your order value using Myntra coupon code today for old users MFCGET",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.gopaisa.com/myntra-coupons-offers-sale-today?utm_source=youtube&utm_medium=sruthi&utm_campaign=rimajain&utm_term=reema1486650-23122020-000000000000000000000000&utm_content=myntrahaul&refcode=",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": []
+  },
+  {
+    "code": "MYNTRA100",
+    "title": "Flat Rs 100 off on order of Rs 599 - Myntra Big Fashion Festival Sale, 10% instant discount on ICICI, BOB & Axis cards",
+    "discountType": "flat",
+    "discountValue": 100,
+    "maxDiscount": null,
+    "minOrderValue": 599,
+    "sourceUrl": "https://www.desidime.com/festivals/myntra-end-of-reason-sale?filter_type=coupons",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": []
+  },
+  {
+    "code": "WATCHES10",
+    "title": "Flat 10% off on selected watches",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.desidime.com/festivals/myntra-end-of-reason-sale?filter_type=coupons",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "MYAXISBANK25",
+    "title": "Extra Rs 150 off on min buy of Rs 999 on select styles on Myntra using Axis Neo credit card",
+    "discountType": "flat",
+    "discountValue": 150,
+    "maxDiscount": null,
+    "minOrderValue": 999,
+    "sourceUrl": "https://www.gopaisa.com/credit-cards-cashback-offers-coupons-deals/axis-neo-credit-card-apply-online",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Fashion"
+    ],
+    "brands": []
+  },
+  {
+    "code": "NORETURNS",
+    "title": "Extra 5% OFF on select items - Women blazers",
+    "discountType": "percent",
+    "discountValue": 5,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.desidime.com/news/myntra-independence-day-right-to-fashion-sale-2025-dates-offers?ref=new_topics_d_sidebar",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [
+      "H&M",
+      "Marks & Spencer",
+      "Salt Attire"
+    ]
+  },
+  {
+    "code": "INSIDERKIDSWEAR07",
+    "title": "Flat 15% OFF on Kids Wear on orders above Rs.399 (for Insiders)",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 399,
+    "sourceUrl": "https://www.desidime.com/news/myntra-independence-day-right-to-fashion-sale-2025-dates-offers?ref=new_topics_d_sidebar",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "RAKHIBXGY",
+    "title": "Rakhis up to 70% OFF + Extra 8% OFF on ordering 4 items",
+    "discountType": "percent",
+    "discountValue": 8,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.desidime.com/news/myntra-independence-day-right-to-fashion-sale-2025-dates-offers?ref=new_topics_d_sidebar",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "JWL6",
+    "title": "Flat 25% OFF on Fashion Jewelry",
+    "discountType": "percent",
+    "discountValue": 25,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.desidime.com/news/myntra-independence-day-right-to-fashion-sale-2025-dates-offers?ref=new_topics_d_sidebar",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [
+      "Peora",
+      "Clara",
+      "Zavya"
+    ]
+  },
+  {
+    "code": "TRYSFTW",
+    "title": "Flat 20% OFF on Nike, Adidas, Puma, Skechers on orders above Rs.1499",
+    "discountType": "percent",
+    "discountValue": 20,
+    "maxDiscount": null,
+    "minOrderValue": 1499,
+    "sourceUrl": "https://www.desidime.com/news/myntra-independence-day-right-to-fashion-sale-2025-dates-offers?ref=new_topics_d_sidebar",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [
+      "Nike",
+      "Adidas",
+      "Puma",
+      "Skechers"
+    ]
+  },
+  {
+    "code": "MFC15",
+    "title": "Up To 80% OFF + Additional 15% OFF On All Orders - Fashion Carnival Coupon",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://in.coponova.com/brand/2853/",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "FWD20",
+    "title": "Avail Up To 70% OFF + Additional 20% OFF On Your Orders",
+    "discountType": "percent",
+    "discountValue": 20,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://in.coponova.com/brand/2853/",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "MYN15",
+    "title": "Get Up To 60% OFF + Extra 15% OFF On H&M Products",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://in.coponova.com/brand/2853/",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [
+      "H&M"
+    ]
+  },
+  {
+    "code": "NEEMANSNEW5",
+    "title": "Flat 5% OFF On Neemans Products",
+    "discountType": "percent",
+    "discountValue": 5,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://in.coponova.com/brand/2853/",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [
+      "Neemans"
+    ]
+  },
+  {
+    "code": "SPORTS20OFF",
+    "title": "Flat 20% OFF On Sports Wear Collections",
+    "discountType": "percent",
+    "discountValue": 20,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://in.coponova.com/brand/2853/",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "NEEMANSNEW10",
+    "title": "Avail Up To 60% OFF + Additional 10% OFF On Neeman's Footwear",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://in.coponova.com/brand/2853/",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Footwear"
+    ],
+    "brands": [
+      "Neemans"
+    ]
+  },
+  {
+    "code": "SPL15",
+    "title": "Flat 15% OFF On Your Orders",
+    "discountType": "percent",
+    "discountValue": 15,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://in.coponova.com/brand/2853/",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "BFF10",
+    "title": "Up To 80% OFF + Extra 10% OFF + FREE Shipping - Big Fashion Festival",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://in.coponova.com/brand/2853/",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "MYNTRAHALFOFF",
+    "title": "Get 50% OFF On Orders Above Rs 150 - New User Offer, App Orders",
+    "discountType": "percent",
+    "discountValue": 50,
+    "maxDiscount": null,
+    "minOrderValue": 150,
+    "sourceUrl": "https://in.coponova.com/brand/2853/",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [],
+    "firstOrderOnly": true
+  },
+  {
+    "code": "MYNTRALUXE",
+    "title": "Up to 40% off on fashion, home, and more",
+    "discountType": "percent",
+    "discountValue": 40,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://zoutons.com/news/myntra-black-friday-sale-2025",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "EPSCOREFIX",
+    "title": "Up to 20% off on the women's category",
+    "discountType": "percent",
+    "discountValue": 20,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://zoutons.com/news/myntra-black-friday-sale-2025",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Women"
+    ],
+    "brands": []
+  },
+  {
+    "code": "XTRA150",
+    "title": "Save Rs 150 off on your order",
+    "discountType": "flat",
+    "discountValue": 150,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://zoutons.com/news/myntra-black-friday-sale-2025",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "MYNPAY10",
+    "title": "Avail flat 10% off on all orders",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://zoutons.com/category/baby-footwear",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "MFU5",
+    "title": "Extra 5% off on men's shoes",
+    "discountType": "percent",
+    "discountValue": 5,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.gopaisa.com/mens-footwear-sale-deals-coupons-offers",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Footwear"
+    ],
+    "brands": []
+  },
+  {
+    "code": "MBK10",
+    "title": "Up to 10% cashback for your Myntra order using MobiKwik wallet transaction",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 1500,
+    "sourceUrl": "https://www.gopaisa.com/myntra-coupons-offers-sale-today",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "OMG2FORCE250",
+    "title": "Get an extra Rs.250 off with Myntra promo code on Force IX Clothes",
+    "discountType": "flat",
+    "discountValue": 250,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://www.gopaisa.com/myntra-coupons-offers-sale-today",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [
+      "Force IX"
+    ]
+  },
+  {
+    "code": "MGPUPI",
+    "title": "Extra 1% OFF with MGPUPI",
+    "discountType": "percent",
+    "discountValue": 1,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://magicpin.in/Myntra-offers/97246/products",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "CKOUT",
+    "title": "Shop Sitewide and Take Up To 80% OFF + Instant Discount of 10% When Pay With Any Credit Cards",
+    "discountType": "percent",
+    "discountValue": 10,
+    "maxDiscount": null,
+    "minOrderValue": 4000,
+    "sourceUrl": "https://www.snatchsavings.com/in/myntra",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "FLAT400",
+    "title": "First Order Discount: Rs 400 OFF",
+    "discountType": "flat",
+    "discountValue": 400,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://dealsdekho.co.in/stores/myntra-coupons",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [],
+    "firstOrderOnly": true
+  },
+  {
+    "code": "FLAT300",
+    "title": "Exclusive Myntra Coupon Offer: Flat Rs 300 OFF + Free Shipping on all orders",
+    "discountType": "flat",
+    "discountValue": 300,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://dealsdekho.co.in/stores/myntra-coupons",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "FIRST200",
+    "title": "First Order Discount: Special discount for first-time Myntra customers, Rs 200 Off",
+    "discountType": "flat",
+    "discountValue": 200,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://dealsdekho.co.in/stores/myntra-coupons",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": [],
+    "firstOrderOnly": true
+  },
+  {
+    "code": "EOS80",
+    "title": "End of Season Sale: Huge discounts on end-of-season apparel, shoes, and accessories, Up to 80% Off",
+    "discountType": "percent",
+    "discountValue": 80,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://dealsdekho.co.in/stores/myntra-coupons",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "WINTER60",
+    "title": "Winter Collection Sale: Save on stylish winter wear including jackets and sweaters, Up to 60% Off",
+    "discountType": "percent",
+    "discountValue": 60,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://dealsdekho.co.in/stores/myntra-coupons",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "FASHION50",
+    "title": "Fashion & Lifestyle Sale: Save on trending fashion styles, shoes, and more, Up to 50% Off",
+    "discountType": "percent",
+    "discountValue": 50,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://dealsdekho.co.in/stores/myntra-coupons",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "APP25",
+    "title": "Mobile App Exclusive Discount: Extra discounts for purchases made via the Myntra mobile app, Up to 25% Off",
+    "discountType": "percent",
+    "discountValue": 25,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://dealsdekho.co.in/stores/myntra-coupons",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "INSIDER30",
+    "title": "Myntra Insider Benefits: Unlock additional discounts and early access to sales, Up to 30% Off",
+    "discountType": "percent",
+    "discountValue": 30,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://dealsdekho.co.in/stores/myntra-coupons",
+    "verificationStatus": "unverified",
+    "categories": [],
+    "brands": []
+  },
+  {
+    "code": "FOOTWEAR50",
+    "title": "Footwear Sale: Save on the latest footwear styles for men, women, and kids, Up to 50% Off",
+    "discountType": "percent",
+    "discountValue": 50,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://dealsdekho.co.in/stores/myntra-coupons",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Footwear"
+    ],
+    "brands": []
+  },
+  {
+    "code": "WOMEN60",
+    "title": "Women's Wear Sale: Save on women's clothing including dresses, tops, and pants, Up to 60% Off",
+    "discountType": "percent",
+    "discountValue": 60,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://dealsdekho.co.in/stores/myntra-coupons",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Women"
+    ],
+    "brands": []
+  },
+  {
+    "code": "MYNTRASALE5",
+    "title": "Get flat 5% off on makeup and more with the coupon code MYNTRASALE5",
+    "discountType": "percent",
+    "discountValue": 5,
+    "maxDiscount": null,
+    "minOrderValue": 0,
+    "sourceUrl": "https://zoutons.com/news/myntra-beauty-coupons",
+    "verificationStatus": "unverified",
+    "categories": [
+      "Beauty"
+    ],
+    "brands": []
+  }
+]
