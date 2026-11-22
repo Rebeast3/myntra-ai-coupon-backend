@@ -36,7 +36,7 @@ app.get('/health', (_req, res) => res.json({ ok: true, db: hasDb ? 'postgres' : 
 
 // GET /api/coupons — only non-expired rows, newest verification first. Never invents rows.
 app.get('/api/coupons', async (req, res) => {
-  const limit = Math.min(100, Math.max(1, parseInt(req.query.limit || '100', 10)));
+  const limit = Math.min(500, Math.max(1, parseInt(req.query.limit || '100', 10)));
   try {
     if (pool) {
       const { rows } = await pool.query(
